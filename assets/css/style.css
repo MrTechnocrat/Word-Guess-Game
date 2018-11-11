@@ -1,0 +1,29 @@
+* {
+
+}
+
+body {
+  background-image: 
+  background-size: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%)translateY(-50%);
+  text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+
+}
+
+h5 {
+    font-size: 50px;
+
+}
+button {
+    size: 20px;
+}
+
+
+
